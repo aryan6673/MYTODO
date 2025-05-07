@@ -1,9 +1,9 @@
 # 🧠 Aryan's Application To-Do List
 
 ## ✅ General Preparation (For All Programs)
-- [ ] Update resume and GitHub profile
+- [x] Update resume and GitHub profile
 - [ ] Write a general Statement of Purpose (SOP)
-- [ ] Brush up on Git, GitHub, and open-source workflows
+- [x] Brush up on Git, GitHub, and open-source workflows
 - [ ] Create or update a personal portfolio website (optional)
 - [ ] Join relevant Discord/Slack communities for networking
 
