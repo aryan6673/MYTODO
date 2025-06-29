@@ -45,7 +45,7 @@
 ### 🎓 [GitHub Campus Experts](https://education.github.com/campus_experts)
 - [ ] Apply for the GitHub Student Developer Pack
 - [ ] Wait for application cycle to open
-- [ ] Record and submit a short intro video     (update - I am not eligible for this, 18+)
+- [ ] Record and submit a short intro video     #(update - I am not eligible for this, 18+)
 - [ ] Answer essay questions thoughtfully
 - [ ] Build and submit a community impact plan
 
@@ -54,7 +54,7 @@
 ### 👩‍💻 [GirlScript Summer of Code (GSSoC)](https://gssoc.girlscript.tech/)
 - [ ] Register during the application window
 - [ ] Join the official Discord server
-- [ ] Choose projects and start contributing      (18+)
+- [ ] Choose projects and start contributing      #(18+)
 - [ ] Track progress on the GSSoC portal
 - [ ] Attend webinars and ask mentors for help
 
